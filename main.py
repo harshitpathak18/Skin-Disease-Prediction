@@ -23,6 +23,8 @@ st.markdown(
     }
 
     #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
 
     /* Sidebar Background, Text, and Widget Styling */
     [data-testid="stSidebar"] {
