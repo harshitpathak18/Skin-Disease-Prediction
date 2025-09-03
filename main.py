@@ -22,6 +22,8 @@ st.markdown(
         min-height: 100vh;
     }
 
+    #MainMenu {visibility: hidden;}
+
     /* Sidebar Background, Text, and Widget Styling */
     [data-testid="stSidebar"] {
         background-color: #bfd8d2 !important;  /* Muted soft teal */
